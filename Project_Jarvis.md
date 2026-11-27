@@ -21,3 +21,17 @@ JARVIS will follow a **personal-first, multi-user-ready** approach.
 - **Initial focus:** A single primary user (the owner).
 - **Future capability:** Support multiple users through separate identities, permissions, and isolated personal data.
 - **Architectural principle:** Keep the system extensible for multi-user support without introducing unnecessary complexity into the initial development phase.
+
+## 4. Operating Environments
+
+JARVIS will target a broad, cross-platform operating environment.
+
+It should eventually support:
+
+- Desktop computers and laptops.
+- Smartphones and tablets.
+- Web browsers, websites, and web applications.
+- Desktop applications and supported OS-level interactions.
+- IoT devices, smart home systems, and other connected hardware.
+
+**Implementation principle:** Support will be introduced incrementally, prioritizing the most valuable and practical integrations first.
