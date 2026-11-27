@@ -13,3 +13,11 @@ JARVIS has three equally important goals:
 1. **Automation:** Save time by automating repetitive tasks and workflows.
 2. **Productivity:** Improve productivity by managing work, information, and digital activities.
 3. **Intelligent Partnership:** Act as an intelligent partner that helps solve problems, make informed decisions, and achieve goals.
+
+## 3. Target Users
+
+JARVIS will follow a **personal-first, multi-user-ready** approach.
+
+- **Initial focus:** A single primary user (the owner).
+- **Future capability:** Support multiple users through separate identities, permissions, and isolated personal data.
+- **Architectural principle:** Keep the system extensible for multi-user support without introducing unnecessary complexity into the initial development phase.
